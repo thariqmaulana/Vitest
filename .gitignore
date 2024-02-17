@@ -1,0 +1,4 @@
+tests/mocking.test.js
+coverage
+node_modules
+package-lock.json
